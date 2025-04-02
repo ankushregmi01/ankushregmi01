@@ -28,13 +28,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
 </div>
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankushregmi01&show_icons=true&theme=dracula&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushregmi01&layout=compact&theme=dracula&hide_border=true" height="150" />
-</div>
-
 ### 🌍 Connect with Me
 
 <div align="center">
